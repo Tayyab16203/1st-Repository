@@ -1,0 +1,29 @@
+a
+{
+    text-decoration: underline;
+}
+/* There are 4 state of links g
+1:link , 2:visited , 3:hover , 4:active */
+
+a:link 
+{
+    color: yellowgreen;
+}
+
+a:visited
+{
+    color: black;
+
+}
+
+a:hover
+{ 
+    color: blue;
+
+}
+
+a:active
+{
+    color: red;
+
+}

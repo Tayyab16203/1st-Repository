@@ -1,0 +1,10 @@
+/* CSS object-fit */
+/* it is used for   for-ground images */
+img{
+    border: 2px solid red;
+    width: 800px;
+    height: 700px;
+    object-fit: contain;
+    object-position: top left;
+
+}
