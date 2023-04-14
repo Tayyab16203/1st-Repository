@@ -1,5 +1,5 @@
 /* css opacity/Transprancy */
-#color-box
+#color-box 
 {
     background-color: green;
     height: 200px;
@@ -16,7 +16,7 @@
     opacity: 0.5;
 
 }
-/* img:hover
+img:hover
 {
     opacity: 0.2;
-} */
+}
